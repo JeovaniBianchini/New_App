@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_result.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout/activity_send_result.xml" value="0.17" />
         <entry key="app/src/main/res/layout/content_drawer.xml" value="0.13125" />
       </map>
     </option>

@@ -16,5 +16,8 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="send_to_result_screen">send_to_result_screen</string>
+    <string name="open_screen_to_get_result">open_screen_to_get_result</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 
 </resources>
