@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">New_App</string>
+    <string name="result">Result</string>
+    <string name="send">send</string>
+    <string name="type_your_name">Type your name...</string>
+    <string name="Hello_name">Hello, %1$s</string>
+</resources>
