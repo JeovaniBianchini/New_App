@@ -19,5 +19,8 @@
     <string name="open_screen_to_get_result">open_screen_to_get_result</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
+    <string name="cancel">cancel</string>
+    <string name="activity_was_cancelled">activity was cancelled</string>
+    <string name="Data_received">Data received: %1$s</string>
 
 </resources>

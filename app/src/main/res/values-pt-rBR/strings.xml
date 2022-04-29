@@ -8,4 +8,7 @@
     <string name="open_screen_to_get_result">Abra a tela para obter o resultado</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>
+    <string name="cancel">Cancelar</string>
+    <string name="activity_was_cancelled">Tela foi cancelada</string>
+    <string name="Data_received">Dado  recebido %1$s</string>
 </resources>
